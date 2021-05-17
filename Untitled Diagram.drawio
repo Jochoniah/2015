@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T16:41:49.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" version="14.6.13" etag="j31fhjW4mlDWLnGb5-ak" type="github"><diagram id="F5gaMsMgwXal7O_Pl6ck">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-17T16:55:22.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="VH76VJZL-I5RPJPoj6dq" version="14.6.13" type="github">
+  <diagram id="F5gaMsMgwXal7O_Pl6ck" name="Page-1">
+    <mxGraphModel dx="1022" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2mJqbZHMbNulqmO-FiL8-1" value="Challenge/Problem" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2mJqbZHMbNulqmO-FiL8-2" value="COVID-19 Pandemic&lt;br&gt;Ravaging communities" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2mJqbZHMbNulqmO-FiL8-3" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#000000;fillColor=#7EA6E0;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="169.5" as="sourcePoint" />
+            <mxPoint x="240" y="169.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2mJqbZHMbNulqmO-FiL8-5" value="&lt;b&gt;&lt;u&gt;Intervention by CHVs&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Health education&lt;br&gt;support infected&lt;br&gt;Refer suspected cases&lt;br&gt;Educate on stigma reduction" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2mJqbZHMbNulqmO-FiL8-6" value="Public awareness&lt;br&gt;Behaviour changes&lt;br&gt;Reduced transmission&lt;br&gt;Stigma reduction&lt;br&gt;Reduced costs&lt;br&gt;associated with illness&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="130" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2mJqbZHMbNulqmO-FiL8-9" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#000000;fillColor=#7EA6E0;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="170" as="sourcePoint" />
+            <mxPoint x="420" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2mJqbZHMbNulqmO-FiL8-10" value="Defeated COVID-19&lt;br&gt;Stable economic status" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2mJqbZHMbNulqmO-FiL8-11" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#000000;fillColor=#7EA6E0;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="169.5" as="sourcePoint" />
+            <mxPoint x="610" y="169.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2mJqbZHMbNulqmO-FiL8-12" value="&lt;b&gt;Dependent variables&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="440" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
